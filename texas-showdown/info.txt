@@ -1,5 +1,9 @@
 3-6 players
 
+original game: Strife
+reprinted as Texas Showdown
+later reprinted as Seas of Strife
+
 rules differences:
   texas-showdown:
     - if taking with highest card of the suit you can choose who leads the next trick
