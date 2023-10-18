@@ -1,0 +1,10 @@
+3-6 players
+
+rules differences:
+  texas-showdown:
+    - if taking with highest card of the suit you can choose who leads the next trick
+    - if playing with 3 players, remove the black suit (0-10) and the grey suit (71-74). Player with the 11 starts.
+  strife rules:
+    - if the highest card of a suit was played, that suit does not count to decide who takes that trick, it is "zeroed".
+      - if all suits played in a trick were "zeroed", all the cards played count as a single suit and the highest card wins.
+    - if playing wiht 3 players, remove the 3 lowest tricks. Player with the 31 starts
