@@ -1,6 +1,0 @@
-These games can be played with 6 nimmt cards:
-
-- The Game
-- The Mind (requires 12 level tokens, 3 shuriken tokens and 5 lives tokens)
-- Take That (number of points per card is not the same but low diff)
-- No Thanks! (requires up to 55 tokens)
